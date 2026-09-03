@@ -1,88 +1,69 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0C447C,185FA5,378ADD,85B7EB&height=180&section=header&text=Myra%20✦&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=cs%20student%20·%20decodificando%20o%20universo%20através%20da%20física%2C%20matemática%20e%20caos%20computacional&descSize=13&descAlignY=58&descColor=B5D4F4&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=071A2B,0C447C,185FA5,378ADD\&height=190\&section=header\&text=MYRA%20✦\&fontSize=54\&fontColor=ffffff\&fontAlignY=37\&desc=computer%20science%20student%20·%20trying%20to%20understand%20things%20that%20probably%20shouldn't%20be%20understood\&descSize=11\&descAlignY=57\&descColor=B5D4F4\&animation=fadeIn)
 
-![Status](https://img.shields.io/badge/🛰️_STATUS-em%20órbita-B5D4F4?style=flat-square&labelColor=0C447C&color=B5D4F4)
-![Coffee](https://img.shields.io/badge/☕_CAFÉ-nível%20crítico-B5D4F4?style=flat-square&labelColor=185FA5&color=B5D4F4)
-![Bugs](https://img.shields.io/badge/🐛_BUGS-distribuição%20caótica-B5D4F4?style=flat-square&labelColor=0C447C&color=B5D4F4)
-
-<br>
-
-*"She wasn't the kind of scientist who gave up easily.*
-*She was the kind who ran seventeen failed simulations before breakfast and called it data."*
-
-`// nota de bordo pessoal, 03:47 da manhã`
+![STATUS](https://img.shields.io/badge/🧪_LAB_STATUS-experimental-85B7EB?style=flat-square\&labelColor=071A2B\&color=85B7EB)
+![THREAT](https://img.shields.io/badge/⚠️_THREAT_LEVEL-mostly%20theoretical-B5D4F4?style=flat-square\&labelColor=0C447C\&color=B5D4F4)
+![COFFEE](https://img.shields.io/badge/☕_CAFFEINE-unstable-85B7EB?style=flat-square\&labelColor=185FA5\&color=85B7EB)
 
 <br>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=E6F1FB,B5D4F4&height=3)
+`[ RESTRICTED RESEARCH LOG // SUBJECT: MYRA ]`
+
+<br>
+
+*"The problem with curiosity is that it rarely stops at one question."*
+
+`// experiment log #001 — status: ongoing`
+
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=378ADD\&height=3)
 
 </div>
 
 <br>
 
-### `// missões atuais & pesquisas de laboratório`
+### `// personnel file`
 
-<div align="center">
-
-| ⚛️ física quântica | ∑ matemática | 📊 ciência de dados espacial |
-|:---:|:---:|:---:|
-| mecânica quântica e fundamentos teóricos do universo | cálculo, álgebra linear, lógica e modelagem geométrica | análises estatísticas e gráficos complexos em **R** |
-
-</div>
-
-<br>
-
-> **📓 Nota de bordo:** Atualmente tentando provar que o tempo gasto caçando *bugs* em scripts do Bash segue uma distribuição estatística caótica. A hipótese ainda está sendo testada. Os dados são inconclusivos. O café está acabando — mas eu não.
-
-<br>
+**Name:** Myra
+**Occupation:** Computer Science student
+**Current state:** trying to understand things that were probably better left unexplained
+**Primary research method:** curiosity
+**Secondary research method:** breaking things and finding out why
+**Known weakness:** interesting questions
+**Laboratory hazard:** "I'll just look this up real quick."
 
 ---
 
-### `// stack de bordo & arsenal tecnológico`
+### `// research directive`
 
-<div align="center">
+My goal is not simply to **use computers**.
 
-**linguagens de programação**
+I want to understand what happens underneath them.
 
-![C++](https://img.shields.io/badge/C++-042C53?style=for-the-badge&logo=cplusplus&logoColor=85B7EB)
-![Python](https://img.shields.io/badge/Python-042C53?style=for-the-badge&logo=python&logoColor=85B7EB)
-![R](https://img.shields.io/badge/R-185FA5?style=for-the-badge&logo=r&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/Bash-3B6D11?style=for-the-badge&logo=gnubash&logoColor=C0DD97)
+Currently investigating the intersection of **computer science, mathematics, artificial intelligence, quantum computing, and sustainable computing**.
 
-<br>
+I am particularly interested in problems that look simple until you ask:
 
-**infra, cloud & automação**
+> **"But why does this actually work?"**
 
-![Docker](https://img.shields.io/badge/Docker-042C53?style=for-the-badge&logo=docker&logoColor=85B7EB)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-042C53?style=for-the-badge&logo=kubernetes&logoColor=85B7EB)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-042C53?style=for-the-badge&logo=azuredevops&logoColor=85B7EB)
-
-<br>
-
-**bancos de dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-042C53?style=for-the-badge&logo=mysql&logoColor=85B7EB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-042C53?style=for-the-badge&logo=postgresql&logoColor=85B7EB)
-
-</div>
-
-<br>
+There is usually no way back after that.
 
 ---
 
-### `// coordenadas de interesse & hiperfixações`
+### `// active experiments`
 
 <div align="center">
 
-![computação quântica](https://img.shields.io/badge/⚛️%20computação%20quântica-E6F1FB?style=flat-square&labelColor=E6F1FB&color=0C447C)
-![física teórica](https://img.shields.io/badge/🔭%20física%20teórica-E6F1FB?style=flat-square&labelColor=E6F1FB&color=0C447C)
-![matemática](https://img.shields.io/badge/∑%20matemática-E6F1FB?style=flat-square&labelColor=E6F1FB&color=0C447C)
-![green computing](https://img.shields.io/badge/🌿%20green%20computing-EAF3DE?style=flat-square&labelColor=EAF3DE&color=3B6D11)
-![ciência de dados](https://img.shields.io/badge/📊%20ciência%20de%20dados%20experimental-DDF2F7?style=flat-square&labelColor=DDF2F7&color=185FA5)
-![pokémon](https://img.shields.io/badge/🎮%20pokémon-FFF4CC?style=flat-square&labelColor=FFF4CC&color=7a5c00)
-![gatos](https://img.shields.io/badge/🐱%20gatos-FAEDF5?style=flat-square&labelColor=FAEDF5&color=6b2d5e)
-![star wars](https://img.shields.io/badge/⚔️%20star%20wars-E6F1FB?style=flat-square&labelColor=E6F1FB&color=0C447C)
+|         EXPERIMENT         |    STATUS   | OBSERVATION                                               |
+| :------------------------: | :---------: | :-------------------------------------------------------- |
+|    ⚛️ Quantum Computing    |   `ACTIVE`  | exploring how far computation can go                      |
+|        ∑ Mathematics       |   `ACTIVE`  | building strong foundations before building bigger things |
+| 🤖 Artificial Intelligence | `OBSERVING` | fascinating, but there are still too many questions       |
+|  🌿 Sustainable Computing  |   `ACTIVE`  | understanding the physical impact of computation          |
+|     ⚙️ Computer Systems    |  `RUNNING`  | trying to understand the machine from the inside          |
+|         🔬 Research        |  `ONGOING`  | results inconclusive; curiosity confirmed                 |
 
 </div>
 
@@ -90,7 +71,83 @@
 
 ---
 
-### `// telemetria do github (galactic dashboard)`
+### `// laboratory philosophy`
+
+> **I don't just want to know what works.**
+>
+> I want to know **why it works, when it stops working, and what happens if I do something completely different.**
+
+I learn best by following a question wherever it leads.
+
+Sometimes that means mathematics.
+
+Sometimes it means code.
+
+Sometimes it means spending three hours researching something that wasn't even part of the original plan.
+
+The experiments continue.
+
+---
+
+### `// classified interests`
+
+<div align="center">
+
+![quantum](https://img.shields.io/badge/⚛️_quantum_computing-E6F1FB?style=flat-square\&labelColor=E6F1FB\&color=0C447C)
+![math](https://img.shields.io/badge/∑_mathematics-E6F1FB?style=flat-square\&labelColor=E6F1FB\&color=0C447C)
+![AI](https://img.shields.io/badge/🤖_artificial_intelligence-DDF2F7?style=flat-square\&labelColor=DDF2F7\&color=185FA5)
+![systems](https://img.shields.io/badge/⚙️_computer_systems-E6F1FB?style=flat-square\&labelColor=E6F1FB\&color=0C447C)
+![green computing](https://img.shields.io/badge/🌿_green_computing-EAF3DE?style=flat-square\&labelColor=EAF3DE\&color=3B6D11)
+![research](https://img.shields.io/badge/🔬_research-FAEDF5?style=flat-square\&labelColor=FAEDF5\&color=6b2d5e)
+![chess](https://img.shields.io/badge/♟️_chess-FFF4CC?style=flat-square\&labelColor=FFF4CC\&color=7a5c00)
+![literature](https://img.shields.io/badge/📚_literature-FAEDF5?style=flat-square\&labelColor=FAEDF5\&color=6b2d5e)
+![cats](https://img.shields.io/badge/🐈_cats-FAEDF5?style=flat-square\&labelColor=FAEDF5\&color=6b2d5e)
+
+</div>
+
+<br>
+
+---
+
+### `// laboratory notes`
+
+```text
+[03:17] found an interesting mathematical problem
+[03:41] realized it was considerably more complicated than expected
+[04:02] discovered another field of mathematics
+[04:27] opened 14 browser tabs
+[04:31] caffeine levels critical
+[04:35] learned something fascinating
+[04:36] considered the experiment a success
+```
+
+<br>
+
+> **Researcher's note:**
+> There is no such thing as going too far down the rabbit hole.
+> There is only the point where the rabbit hole becomes a research topic.
+
+---
+
+### `// current hypothesis`
+
+<div align="center">
+
+**Curiosity is a valid research methodology.**
+
+<br>
+
+`confidence: 97.3%`
+
+`remaining 2.7%: under investigation`
+
+</div>
+
+<br>
+
+---
+
+### `// telemetry`
 
 <div align="center">
 
@@ -114,6 +171,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=85B7EB,378ADD,185FA5,0C447C&height=120&section=footer&text=never%20tell%20me%20the%20odds&fontSize=16&fontColor=E6F1FB&fontAlignY=65&desc=codedbymyra%20·%20lat%20-25.4%20·%20lon%20-49.2%20·%20curitiba%2C%20br&descSize=11&descColor=B5D4F4&descAlignY=82)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=378ADD,185FA5,0C447C,071A2B\&height=120\&section=footer\&text=never%20tell%20me%20the%20odds\&fontSize=17\&fontColor=E6F1FB\&fontAlignY=63)
 
 </div>
